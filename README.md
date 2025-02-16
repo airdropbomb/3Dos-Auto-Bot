@@ -26,7 +26,7 @@ An automated bot for managing multiple 3DOS accounts with proxy support.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/3Dos-Auto-Bot.git
+git clone https://github.com/airdropbomb/3Dos-Auto-Bot.git
 cd 3Dos-Auto-Bot
 ```
 
