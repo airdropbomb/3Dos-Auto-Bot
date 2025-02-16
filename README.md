@@ -4,7 +4,7 @@ An automated bot for managing multiple 3DOS accounts with proxy support.
 
 ## 📢 Join Our Community
 
-- Telegram Channel: [AirdropInsiderID](https://t.me/airdropbombnode)
+- Telegram Channel: [Airdropbombnode](https://t.me/airdropbombnode)
 
 ## ✨ Features
 
